@@ -1,0 +1,13 @@
+1.0
+    项目基础信息
+    技术栈:
+        spring-boot  
+        spring-boot-jpa
+        fast-json
+        lombok
+    基本信息:
+        检测组织
+        检测组织地理位置信息
+        检查组织管理员
+        用户信息
+        检测记录       
